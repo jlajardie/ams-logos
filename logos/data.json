@@ -5029,5 +5029,720 @@
       "localOptimized": "./optimized/zotye.png",
       "localOriginal": "./original/zotye.png"
     }
+  },
+  {
+    "name": "Autostar",
+    "slug": "autostar",
+    "image": {
+      "source": "https://www.autostar.fr/wp-content/uploads/2022/12/logo-autostar.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/autostar.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/autostar.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/autostar.png",
+      "localThumb": "./thumb/autostar.png",
+      "localOptimized": "./optimized/autostar.png",
+      "localOriginal": "./original/autostar.png"
+    }
+  },
+  {
+    "name": "Bavaria",
+    "slug": "bavaria",
+    "image": {
+      "source": "https://groupe-pilote.com/wp-content/uploads/2017/09/bavaria_logo_rvb.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/bavaria.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/bavaria.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/bavaria.png",
+      "localThumb": "./thumb/bavaria.png",
+      "localOptimized": "./optimized/bavaria.png",
+      "localOriginal": "./original/bavaria.png"
+    }
+  },
+  {
+    "name": "Bedford",
+    "slug": "bedford",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bedford_gm_logo.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/bedford.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/bedford.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/bedford.png",
+      "localThumb": "./thumb/bedford.png",
+      "localOptimized": "./optimized/bedford.png",
+      "localOriginal": "./original/bedford.png"
+    }
+  },
+  {
+    "name": "Bellier",
+    "slug": "bellier",
+    "image": {
+      "source": "https://www.bellier.fr/wp-content/uploads/2017/08/logo-e1586512281619.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/bellier.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/bellier.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/bellier.png",
+      "localThumb": "./thumb/bellier.png",
+      "localOptimized": "./optimized/bellier.png",
+      "localOriginal": "./original/bellier.png"
+    }
+  },
+  {
+    "name": "Benimar",
+    "slug": "benimar",
+    "image": {
+      "source": "https://www.benimar.es/wp-content/uploads/logo-benimar.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/benimar.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/benimar.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/benimar.png",
+      "localThumb": "./thumb/benimar.png",
+      "localOptimized": "./optimized/benimar.png",
+      "localOriginal": "./original/benimar.png"
+    }
+  },
+  {
+    "name": "Bobcat",
+    "slug": "bobcat",
+    "image": {
+      "source": "https://en.wikipedia.org/wiki/File:Bobcat_Logo_(2026).png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/bobcat.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/bobcat.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/bobcat.png",
+      "localThumb": "./thumb/bobcat.png",
+      "localOptimized": "./optimized/bobcat.png",
+      "localOriginal": "./original/bobcat.png"
+    }
+  },
+  {
+    "name": "Bürstner",
+    "slug": "burstner",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Buerstner.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/burstner.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/burstner.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/burstner.png",
+      "localThumb": "./thumb/burstner.png",
+      "localOptimized": "./optimized/burstner.png",
+      "localOriginal": "./original/burstner.png"
+    }
+  },
+  {
+    "name": "Carthago",
+    "slug": "carthago",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Carthago_Reisemobilbau_GmbH_Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/carthago.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/carthago.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/carthago.png",
+      "localThumb": "./thumb/carthago.png",
+      "localOptimized": "./optimized/carthago.png",
+      "localOriginal": "./original/carthago.png"
+    }
+  },
+  {
+    "name": "Casalini",
+    "slug": "casalini",
+    "image": {
+      "source": "https://logos-world.net/wp-content/uploads/2023/07/Casalini-Logo-500x281.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/casalini.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/casalini.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/casalini.png",
+      "localThumb": "./thumb/casalini.png",
+      "localOptimized": "./optimized/casalini.png",
+      "localOriginal": "./original/casalini.png"
+    }
+  },
+  {
+    "name": "Case Construction Equipment",
+    "slug": "case",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Case_Construction_logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/case.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/case.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/case.png",
+      "localThumb": "./thumb/case.png",
+      "localOptimized": "./optimized/case.png",
+      "localOriginal": "./original/case.png"
+    }
+  },
+  {
+    "name": "Caterpillar",
+    "slug": "caterpillar",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Caterpillar_logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/caterpillar.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/caterpillar.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/caterpillar.png",
+      "localThumb": "./thumb/caterpillar.png",
+      "localOptimized": "./optimized/caterpillar.png",
+      "localOriginal": "./original/caterpillar.png"
+    }
+  },
+  {
+    "name": "Challenger",
+    "slug": "challenger",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Challenger_Tractor_logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/challenger.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/challenger.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/challenger.png",
+      "localThumb": "./thumb/challenger.png",
+      "localOptimized": "./optimized/challenger.png",
+      "localOriginal": "./original/challenger.png"
+    }
+  },
+  {
+    "name": "Chatenet",
+    "slug": "chatenet",
+    "image": {
+      "source": "https://www.automobiles-chatenet.com/files/pack/design/theme/images/logo_chatenet.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/chatenet.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/chatenet.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/chatenet.png",
+      "localThumb": "./thumb/chatenet.png",
+      "localOptimized": "./optimized/chatenet.png",
+      "localOriginal": "./original/chatenet.png"
+    }
+  },
+  {
+    "name": "Chausson",
+    "slug": "chausson",
+    "image": {
+      "source": "https://web.archive.org/web/20260209221748/https://www.chausson-camping-cars.fr/wp-content/uploads/logo-chausson.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/chausson.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/chausson.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/chausson.png",
+      "localThumb": "./thumb/chausson.png",
+      "localOptimized": "./optimized/chausson.png",
+      "localOriginal": "./original/chausson.png"
+    }
+  },
+  {
+    "name": "Dethleffs",
+    "slug": "dethleffs",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dethleffs_Logo_2024.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/dethleffs.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/dethleffs.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/dethleffs.png",
+      "localThumb": "./thumb/dethleffs.png",
+      "localOptimized": "./optimized/dethleffs.png",
+      "localOriginal": "./original/dethleffs.png"
+    }
+  },
+  {
+    "name": "Deutz-Fahr",
+    "slug": "deutz-fahr",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/de/Deutz-Fahr-Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/deutz-fahr.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/deutz-fahr.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/deutz-fahr.png",
+      "localThumb": "./thumb/deutz-fahr.png",
+      "localOptimized": "./optimized/deutz-fahr.png",
+      "localOriginal": "./original/deutz-fahr.png"
+    }
+  },
+  {
+    "name": "Elnagh",
+    "slug": "elnagh",
+    "image": {
+      "source": "https://www.elnagh.com/",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/elnagh.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/elnagh.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/elnagh.png",
+      "localThumb": "./thumb/elnagh.png",
+      "localOptimized": "./optimized/elnagh.png",
+      "localOriginal": "./original/elnagh.png"
+    }
+  },
+  {
+    "name": "Eura Mobil",
+    "slug": "euramobile",
+    "image": {
+      "source": "https://web.archive.org/web/20220707180202/https://www.euramobil.de/content/themes/euramobil/assets/images/logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/euramobile.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/euramobile.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/euramobile.png",
+      "localThumb": "./thumb/euramobile.png",
+      "localOptimized": "./optimized/euramobile.png",
+      "localOriginal": "./original/euramobile.png"
+    }
+  },
+  {
+    "name": "Fleurette",
+    "slug": "fleurette",
+    "image": {
+      "source": "https://www.fleurette-florium.fr/wp-content/uploads/2021/08/logo-fleurette-florium-1024x332.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/fleurette.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/fleurette.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/fleurette.png",
+      "localThumb": "./thumb/fleurette.png",
+      "localOptimized": "./optimized/fleurette.png",
+      "localOriginal": "./original/fleurette.png"
+    }
+  },
+  {
+    "name": "Frankia",
+    "slug": "frankia",
+    "image": {
+      "source": "https://www.frankia.com/_assets/f80a150db89c8cb4060c9479e9d559ed/Images/frankialogo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/frankia.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/frankia.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/frankia.png",
+      "localThumb": "./thumb/frankia.png",
+      "localOptimized": "./optimized/frankia.png",
+      "localOriginal": "./original/frankia.png"
+    }
+  },
+  {
+    "name": "FUSO",
+    "slug": "fuso",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/MitsubishiFUSO.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/fuso.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/fuso.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/fuso.png",
+      "localThumb": "./thumb/fuso.png",
+      "localOptimized": "./optimized/fuso.png",
+      "localOriginal": "./original/fuso.png"
+    }
+  },
+  {
+    "name": "Giotti Line",
+    "slug": "giottline",
+    "image": {
+      "source": "https://www.giottiline.com/en/",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/giottline.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/giottline.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/giottline.png",
+      "localThumb": "./thumb/giottline.png",
+      "localOptimized": "./optimized/giottline.png",
+      "localOriginal": "./original/giottline.png"
+    }
+  },
+  {
+    "name": "Goupil Industrie",
+    "slug": "goupil",
+    "image": {
+      "source": "https://www.goupil-ev.com/uploads/files/Presse/Goupil-logo-2019-VF.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/goupil.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/goupil.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/goupil.png",
+      "localThumb": "./thumb/goupil.png",
+      "localOptimized": "./optimized/goupil.png",
+      "localOriginal": "./original/goupil.png"
+    }
+  },
+  {
+    "name": "Grecav",
+    "slug": "grecav",
+    "image": {
+      "source": "https://logos-world.net/wp-content/uploads/2023/08/Grecav-Logo.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/grecav.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/grecav.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/grecav.png",
+      "localThumb": "./thumb/grecav.png",
+      "localOptimized": "./optimized/grecav.png",
+      "localOriginal": "./original/grecav.png"
+    }
+  },
+  {
+    "name": "Hako",
+    "slug": "hako",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hako-Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/hako.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/hako.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/hako.png",
+      "localThumb": "./thumb/hako.png",
+      "localOptimized": "./optimized/hako.png",
+      "localOriginal": "./original/hako.png"
+    }
+  },
+  {
+    "name": "Hardi",
+    "slug": "hardi",
+    "image": {
+      "source": "https://hardi.com/application/themes/hardi/img/hardi.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/hardi.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/hardi.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/hardi.png",
+      "localThumb": "./thumb/hardi.png",
+      "localOptimized": "./optimized/hardi.png",
+      "localOriginal": "./original/hardi.png"
+    }
+  },
+  {
+    "name": "Hymer",
+    "slug": "hymer",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Hymer_Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/hymer.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/hymer.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/hymer.png",
+      "localThumb": "./thumb/hymer.png",
+      "localOptimized": "./optimized/hymer.png",
+      "localOriginal": "./original/hymer.png"
+    }
+  },
+  {
+    "name": "Itineo",
+    "slug": "itineo",
+    "image": {
+      "source": "https://www.itineo.com/img/squelette/logo-itineo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/itineo.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/itineo.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/itineo.png",
+      "localThumb": "./thumb/itineo.png",
+      "localOptimized": "./optimized/itineo.png",
+      "localOriginal": "./original/itineo.png"
+    }
+  },
+  {
+    "name": "Jannarelly Design Studio",
+    "slug": "jannarelly",
+    "image": {
+      "source": "https://web.archive.org/web/20250718035234/https://jannarelly.com/wp-content/uploads/2023/08/logo-jannarelly-horizontal-noir.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/jannarelly.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/jannarelly.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/jannarelly.png",
+      "localThumb": "./thumb/jannarelly.png",
+      "localOptimized": "./optimized/jannarelly.png",
+      "localOriginal": "./original/jannarelly.png"
+    }
+  },
+  {
+    "name": "JCB",
+    "slug": "jcb",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/JCB_%28J.C._Bamford_Excavators_Limited%29_logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/jcb.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/jcb.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/jcb.png",
+      "localThumb": "./thumb/jcb.png",
+      "localOptimized": "./optimized/jcb.png",
+      "localOriginal": "./original/jcb.png"
+    }
+  },
+  {
+    "name": "John Deere",
+    "slug": "john-deere",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/0/02/John_Deere_Logo_%E2%80%93_Flat_2_Color.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/john-deere.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/john-deere.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/john-deere.png",
+      "localThumb": "./thumb/john-deere.png",
+      "localOptimized": "./optimized/john-deere.png",
+      "localOriginal": "./original/john-deere.png"
+    }
+  },
+  {
+    "name": "Kubota",
+    "slug": "kubota",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Kubota_Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/kubota.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/kubota.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/kubota.png",
+      "localThumb": "./thumb/kubota.png",
+      "localOptimized": "./optimized/kubota.png",
+      "localOriginal": "./original/kubota.png"
+    }
+  },
+  {
+    "name": "LAIKA",
+    "slug": "laika",
+    "image": {
+      "source": "https://www.laika.it/wp-content/uploads/2026/07/Laika-Logo-NEU-FINAL.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/laika.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/laika.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/laika.png",
+      "localThumb": "./thumb/laika.png",
+      "localOptimized": "./optimized/laika.png",
+      "localOriginal": "./original/laika.png"
+    }
+  },
+  {
+    "name": "Liebherr",
+    "slug": "liebherr",
+    "image": {
+      "source": "https://www-assets.liebherr.com/media/global/global-media/liebherr_logos/logo_ci_liebherr.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/liebherr.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/liebherr.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/liebherr.png",
+      "localThumb": "./thumb/liebherr.png",
+      "localOptimized": "./optimized/liebherr.png",
+      "localOriginal": "./original/liebherr.png"
+    }
+  },
+  {
+    "name": "LMC Caravan",
+    "slug": "lmc",
+    "image": {
+      "source": "https://www.lmc-caravan.com/lmc/logo/lmc-logo1.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/lmc.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/lmc.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/lmc.png",
+      "localThumb": "./thumb/lmc.png",
+      "localOptimized": "./optimized/lmc.png",
+      "localOriginal": "./original/lmc.png"
+    }
+  },
+  {
+    "name": "LEVC",
+    "slug": "london-taxicab",
+    "image": {
+      "source": "https://d2638j3z8ek976.cloudfront.net/ee31cb7d5cc0521098d66cd6c0121290e425436a/1785495837/images/logo.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/london-taxicab.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/london-taxicab.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/london-taxicab.png",
+      "localThumb": "./thumb/london-taxicab.png",
+      "localOptimized": "./optimized/london-taxicab.png",
+      "localOriginal": "./original/london-taxicab.png"
+    }
+  },
+  {
+    "name": "Mc Louis",
+    "slug": "mac-louis",
+    "image": {
+      "source": "https://seeklogo.com/vector-logo/480638/mclouis",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/mac-louis.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/mac-louis.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/mac-louis.png",
+      "localThumb": "./thumb/mac-louis.png",
+      "localOptimized": "./optimized/mac-louis.png",
+      "localOriginal": "./original/mac-louis.png"
+    }
+  },
+  {
+    "name": "Manitou",
+    "slug": "manitou",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Manitou_Group_Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/manitou.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/manitou.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/manitou.png",
+      "localThumb": "./thumb/manitou.png",
+      "localOptimized": "./optimized/manitou.png",
+      "localOriginal": "./original/manitou.png"
+    }
+  },
+  {
+    "name": "Massey Ferguson",
+    "slug": "massey-fergusson",
+    "image": {
+      "source": "https://news.agcocorp.com/download/MF_Logo_Red_Grey_RGB.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/massey-fergusson.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/massey-fergusson.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/massey-fergusson.png",
+      "localThumb": "./thumb/massey-fergusson.png",
+      "localOptimized": "./optimized/massey-fergusson.png",
+      "localOriginal": "./original/massey-fergusson.png"
+    }
+  },
+  {
+    "name": "Mc Louis",
+    "slug": "mc-louis",
+    "image": {
+      "source": "https://seeklogo.com/vector-logo/480638/mclouis",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/mc-louis.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/mc-louis.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/mc-louis.png",
+      "localThumb": "./thumb/mc-louis.png",
+      "localOptimized": "./optimized/mc-louis.png",
+      "localOriginal": "./original/mc-louis.png"
+    }
+  },
+  {
+    "name": "McCormick",
+    "slug": "mccormick",
+    "image": {
+      "source": "https://seeklogo.com/vector-logo/197605/mccormick-tractor",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/mccormick.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/mccormick.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/mccormick.png",
+      "localThumb": "./thumb/mccormick.png",
+      "localOptimized": "./optimized/mccormick.png",
+      "localOriginal": "./original/mccormick.png"
+    }
+  },
+  {
+    "name": "MEGA",
+    "slug": "mega",
+    "image": {
+      "source": "https://1000logos.net/aixam-mega-logo/",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/mega.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/mega.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/mega.png",
+      "localThumb": "./thumb/mega.png",
+      "localOptimized": "./optimized/mega.png",
+      "localOriginal": "./original/mega.png"
+    }
+  },
+  {
+    "name": "Mobilvetta",
+    "slug": "mobilvetta",
+    "image": {
+      "source": "https://www.brandsoftheworld.com/logo/mobilvetta-0",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/mobilvetta.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/mobilvetta.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/mobilvetta.png",
+      "localThumb": "./thumb/mobilvetta.png",
+      "localOptimized": "./optimized/mobilvetta.png",
+      "localOriginal": "./original/mobilvetta.png"
+    }
+  },
+  {
+    "name": "New Holland",
+    "slug": "new-holland",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:New_Holland_Logo_2023.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/new-holland.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/new-holland.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/new-holland.png",
+      "localThumb": "./thumb/new-holland.png",
+      "localOptimized": "./optimized/new-holland.png",
+      "localOriginal": "./original/new-holland.png"
+    }
+  },
+  {
+    "name": "Piaggio",
+    "slug": "piaggio",
+    "image": {
+      "source": "https://commons.wikimedia.org/wiki/File:Piaggio-logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/piaggio.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/piaggio.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/piaggio.png",
+      "localThumb": "./thumb/piaggio.png",
+      "localOptimized": "./optimized/piaggio.png",
+      "localOriginal": "./original/piaggio.png"
+    }
+  },
+  {
+    "name": "Pilote",
+    "slug": "pilote",
+    "image": {
+      "source": "https://fr.wikipedia.org/wiki/Fichier:Pilote_Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/pilote.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/pilote.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/pilote.png",
+      "localThumb": "./thumb/pilote.png",
+      "localOptimized": "./optimized/pilote.png",
+      "localOriginal": "./original/pilote.png"
+    }
+  },
+  {
+    "name": "Rapido",
+    "slug": "rapido",
+    "image": {
+      "source": "https://fr.wikipedia.org/wiki/Fichier:Rapido_Camping-Car_Logo.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/rapido.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/rapido.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/rapido.png",
+      "localThumb": "./thumb/rapido.png",
+      "localOptimized": "./optimized/rapido.png",
+      "localOriginal": "./original/rapido.png"
+    }
+  },
+  {
+    "name": "SAME",
+    "slug": "same",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/4/48/LOGO_for_SAME.jpg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/same.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/same.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/same.png",
+      "localThumb": "./thumb/same.png",
+      "localOptimized": "./optimized/same.png",
+      "localOriginal": "./original/same.png"
+    }
+  },
+  {
+    "name": "Schäffer",
+    "slug": "schaffer",
+    "image": {
+      "source": "https://www.schaeffer.de/wp-content/uploads/Logo_Kombi_Made-For-More_coloured_black.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/schaffer.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/schaffer.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/schaffer.png",
+      "localThumb": "./thumb/schaffer.png",
+      "localOptimized": "./optimized/schaffer.png",
+      "localOriginal": "./original/schaffer.png"
+    }
+  },
+  {
+    "name": "Sunbeam",
+    "slug": "sunbeam",
+    "image": {
+      "source": "https://www.sunbeam.org.au/wp-content/uploads/Sunbeam.jpg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/sunbeam.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/sunbeam.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/sunbeam.png",
+      "localThumb": "./thumb/sunbeam.png",
+      "localOptimized": "./optimized/sunbeam.png",
+      "localOriginal": "./original/sunbeam.png"
+    }
+  },
+  {
+    "name": "SunCar",
+    "slug": "suncar",
+    "image": {
+      "source": "https://www.logo-voiture.com/wp-content/uploads/2023/10/logo-suncar.jpeg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/suncar.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/suncar.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/suncar.png",
+      "localThumb": "./thumb/suncar.png",
+      "localOptimized": "./optimized/suncar.png",
+      "localOriginal": "./original/suncar.png"
+    }
+  },
+  {
+    "name": "Tabbert",
+    "slug": "tabbert",
+    "image": {
+      "source": "https://www.tabbert.com/dist/tabbert/favicon/favicon.svg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/tabbert.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/tabbert.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/tabbert.png",
+      "localThumb": "./thumb/tabbert.png",
+      "localOptimized": "./optimized/tabbert.png",
+      "localOriginal": "./original/tabbert.png"
+    }
+  },
+  {
+    "name": "T.E.C.",
+    "slug": "tec",
+    "image": {
+      "source": "https://decals-shop.com/image/cache/catalog/Campers/Tec/tec-logo-v2-decals-shop-com-1287x1000.jpg",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/tec.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/tec.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/tec.png",
+      "localThumb": "./thumb/tec.png",
+      "localOptimized": "./optimized/tec.png",
+      "localOriginal": "./original/tec.png"
+    }
+  },
+  {
+    "name": "Valtra",
+    "slug": "valtra",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Valtra_Logo_Black_Outline_RGB.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/valtra.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/valtra.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/valtra.png",
+      "localThumb": "./thumb/valtra.png",
+      "localOptimized": "./optimized/valtra.png",
+      "localOriginal": "./original/valtra.png"
+    }
+  },
+  {
+    "name": "Van Hool",
+    "slug": "van-hool",
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Van_Hool_logo_%28current%29.png",
+      "thumb": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/thumb/van-hool.png",
+      "optimized": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/optimized/van-hool.png",
+      "original": "https://raw.githubusercontent.com/jlajardie/ams-logos/added-logos/logos/original/van-hool.png",
+      "localThumb": "./thumb/van-hool.png",
+      "localOptimized": "./optimized/van-hool.png",
+      "localOriginal": "./original/van-hool.png"
+    }
   }
 ]
